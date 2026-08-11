@@ -1,31 +1,50 @@
-# Hi there, I'm Dandy Wahyudin 👋
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-### Fresh Graduate | Full-Stack Web Developer
+###
 
-I am an Informatics Engineering graduate from Universitas Pasundan, focusing entirely on web development. I am passionate about crafting clean, efficient, and scalable web applications, specializing strictly in the technical execution and coding of web projects. I also hold certifications as a Junior Web Developer and Junior Cyber Security professional from BNSP.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+</div>
 
-## 🛠️ Tech Stack
-* **Backend:** Laravel
-* **Frontend:** React.js, Inertia.js
-* **Styling:** Tailwind CSS
-* **Security:** Web Security Basics (BNSP Certified)
+###
 
-## 🚀 Featured Projects
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
 
-* **GateForestTrip**
-  * *Description:* A web-based reservation and data management system tailored for a nature tourism provider.
-  * *Tech Stack:* Laravel, React.js, Tailwind CSS
-  
-* **Tahliyah Tours Website (PT Mumtaaz Cahaya Abadi)**
-  * *Description:* Official company website development built for optimal performance and user experience.
-  * *Tech Stack:* Laravel, Tailwind CSS
+###
 
-## 🎓 Education & Certifications
-* **B.Eng. in Informatics Engineering**, Universitas Pasundan
-* **Junior Web Developer**, BNSP
-* **Junior Cyber Security**, BNSP
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
-## 📫 How to reach me
-* **Email:** [Masukkan Email Anda]
-* **LinkedIn:** [Tautan LinkedIn Anda]
-* **Portfolio:** [Tautan Web Portofolio Anda]
+###
