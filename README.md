@@ -1,10 +1,16 @@
-<h4 data-importer="text" align="left">Hi! My name is Dandy Wahyudin</h4>
+<h4 data-importer="text" align="left">Hi there, I'm Dandy Wahyudin 👋<br><br>Fresh Graduate | Full-Stack Web Developer<br><br>I am an Informatics Engineering graduate from Universitas Pasundan, focusing entirely on web development.</h4>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=47&fontAlignY=49&stroke=-&descSize=15&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=47&fontAlignY=49&stroke=-&descSize=15&descAlign=43&descAlignY=27&textBg=false&theme=cobalt"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h5 data-importer="text" align="left">Tech Stack :</h5>
 
 ###
 
@@ -36,9 +42,9 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=47&fontAlignY=49&stroke=-&descSize=15&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+<br clear="both">
+
+<h5 data-importer="text" align="left">📫 How to reach me</h5>
 
 ###
 
@@ -54,7 +60,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=47&fontAlignY=49&stroke=-&descSize=15&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=47&fontAlignY=49&stroke=-&descSize=15&descAlign=43&descAlignY=27&textBg=false&theme=cobalt"  />
 </div>
 
 ###
